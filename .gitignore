@@ -1,0 +1,8 @@
+Nasa_li_ion_dataset/Battery_Uniform_Distribution_Charge_Discharge_DataSet_2Post
+Nasa_li_ion_dataset/mlruns
+Nasa_li_ion_dataset/Simulator_model
+Nasa_li_ion_dataset/RUL_Model
+verifiable_RUL_environment
+mlruns
+.ropeproject
+Nasa_li_ion_dataset/__pycache__
